@@ -1,0 +1,32 @@
+[
+  {
+    "Costo_Installazione": 1500.0,
+    "Tipo_Energia": "Gas",
+    "Nome": "Caldaia tradizionale",
+    "Rendimento":  0.9
+  },
+  {
+    "Costo_Installazione": 2000.0,
+    "Tipo_Energia": "Gas",
+    "Nome": "Caldaia a condensazione",
+    "Rendimento": 1
+  },
+  {
+    "Costo_Installazione": 3000.0,
+    "Tipo_Energia": "Elettrico",
+    "Nome": "Pompa di calore di buon livello",
+    "Rendimento": 3.6
+  },
+  {
+    "Costo_Installazione": 1000.0,
+    "Tipo_Energia": "Elettrico",
+    "Nome": "Pompa di calore economica",
+    "Rendimento": 2.8
+  },
+  {
+    "Costo_Installazione": 170.0,
+    "Tipo_Energia": "Elettrico",
+    "Nome": "Stufa elettrica",
+    "Rendimento": 1
+  }
+]

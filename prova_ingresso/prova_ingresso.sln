@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prova_ingresso", "prova_ingresso\prova_ingresso.csproj", "{8574444A-AFA5-49D5-A17F-6374C9402CAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8574444A-AFA5-49D5-A17F-6374C9402CAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8574444A-AFA5-49D5-A17F-6374C9402CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8574444A-AFA5-49D5-A17F-6374C9402CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8574444A-AFA5-49D5-A17F-6374C9402CAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F188C2DA-554D-418B-9D9B-A3B678AA2F3D}
+	EndGlobalSection
+EndGlobal
